@@ -73,3 +73,9 @@ with open("stock_data.csv", "w", newline="") as f:
     writer.writeheader()
     writer.writerows(data)
 
+'''
+Plots links
+Scatter plot: https://drive.google.com/file/d/1IcyzyA0UlzhaGd3RJa-0EEe1_U8-NTA_/view?usp=drivesdk
+Bar plot: https://drive.google.com/file/d/1mzA8szksWrpTeLt6C17IEAgdrg8En4tZ/view?usp=drivesdk
+Histogram: https://drive.google.com/file/d/1PiDoNGjBdOfoPOqbG-qGK5pwjkewNyKH/view?usp=drivesdk
+'''
